@@ -1,7 +1,5 @@
 # DT MONEY
 
-The application is avaiable on this [link](https://urlexample.com)
-
 <img style="display: block; margin-left: auto; margin-rigth: auto;" src="./public/dtmoney_main.jpg">
 
 <br>
